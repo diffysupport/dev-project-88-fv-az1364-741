@@ -1,12 +1,12 @@
 basic:
-    name: 'Rafaela Mohr Jr.'
+    name: 'Angelica Paucek'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://goodwin.com/'
-        - 'https://yundt.com/adipisci-ut-nostrum-sapiente-quis-voluptatem'
+        - 'https://www.ratke.biz/eum-in-repellat-sed-blanditiis'
+        - 'https://hodkiewicz.com/magnam-quibusdam-dolorem-quis-id.html'
     monitoring:
         days: {  }
         type: ''
